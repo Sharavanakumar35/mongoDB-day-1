@@ -1,4 +1,4 @@
-# MongoDB Commands for Product Management (Click to download 🔽)[https://github.com/Sharavanakumar35/mongoDB-day-1/raw/main/MongoDB_Products_commands.docx]
+# MongoDB Commands for Product Management [Click to download 🔽](https://github.com/Sharavanakumar35/mongoDB-day-1/raw/main/MongoDB_Products_commands.docx)
 
 This repository contains MongoDB commands to perform various operations related to product management on a sample dataset. The dataset includes information about different products such as their names, prices, materials, and colors.
 
